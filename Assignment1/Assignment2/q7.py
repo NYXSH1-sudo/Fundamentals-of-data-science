@@ -9,6 +9,5 @@ def key_value(sentence):
 
 
 sentence = input("Enter a sentence: ")
-
 result = key_value(sentence)
 print("Character frequency:", result)
