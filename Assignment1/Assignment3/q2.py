@@ -1,8 +1,3 @@
-'''
-This program takes user details as input and appends them to the existing
-file "records.csv". The fields are: student_name, roll_no, program, year, and group.
-'''
-
 import csv
 import os
 
@@ -64,5 +59,4 @@ def main():
     print("\nDone. Exiting program.")
 
 
-# Main
 main()

@@ -1,15 +1,10 @@
-'''
-This program reads a CSV file named "records.csv" and displays its contents.
-The fields read are: student_name, roll_no, program, year, and group.
-'''
-
 import csv
 import os
 
 def read_records():
     filename = "records.csv"
 
-    # Check if file exists
+
     if not os.path.exists(filename):
         # Create a sample records.csv for demonstration
         with open(filename, "w", newline="") as f:
@@ -45,5 +40,4 @@ def read_records():
         print(f"Error: Missing expected column {e} in the CSV file.")
 
 
-# Main
 read_records()
