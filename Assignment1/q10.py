@@ -5,7 +5,7 @@ def play_game():
     max_attempts = 7
 
     print("=" * 40)
-    print("   🎯 NUMBER GUESSING GAME")
+    print("    NUMBER GUESSING GAME")
     print("=" * 40)
     print(f"I've picked a number between 1 and 50.")
     print(f"You have {max_attempts} attempts to guess it!\n")
@@ -32,9 +32,9 @@ def play_game():
                 print(" Well done!")
             break
         elif guess < secret_number:
-            print("📈 Too low! Try higher.\n")
+            print(" Too low! Try higher.\n")
         else:
-            print("📉 Too high! Try lower.\n")
+            print(" Too high! Try lower.\n")
 
         if attempt == max_attempts:
             print(f"\nOut of attempts! The number was {secret_number}.")
