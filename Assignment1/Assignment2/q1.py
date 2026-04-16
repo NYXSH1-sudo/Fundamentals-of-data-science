@@ -8,7 +8,6 @@ def calculate(a, b):
     else:
         print("Quotient: Cannot divide by zero")
 
-
 num1 = int(input("Enter first integer: "))
 num2 = int(input("Enter second integer: "))
 
