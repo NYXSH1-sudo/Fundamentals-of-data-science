@@ -1,0 +1,14 @@
+[15:38:41]
+Numbers        : 1, 2, 3, 4, 5, 6, 7
+Addition       : 28
+Subtraction    : -26
+Multiplication : 5040
+Division       : 0.0002
+---------------------------------------------
+[15:39:18]
+Numbers        : 1, 2
+Addition       : 3
+Subtraction    : -1
+Multiplication : 2
+Division       : 0.5
+---------------------------------------------
