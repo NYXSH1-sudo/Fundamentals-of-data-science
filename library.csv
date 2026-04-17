@@ -1,6 +1,6 @@
 book_id,title,author,genre,available
-B001,The Alchemist,Paulo Coelho,Fiction,True
+B001,Pocket Psychiatry,Kamaldeep Bhui,Psychology,True
 B002,Clean Code,Robert Martin,Technology,True
 B003,Atomic Habits,James Clear,Self-Help,True
-B004,Sapiens,Yuval Harari,History,True
+B004,A Wrinkle In Time,Madeleine L'Engle,Fiction,True
 B005,Python Crash Course,Eric Matthes,Technology,True

@@ -85,10 +85,10 @@ class Library:
                     writer.writeheader()
                 # Seed with sample books
                 samples = [
-                    Book("B001", "The Alchemist",      "Paulo Coelho",  "Fiction"),
+                    Book("B001", "Pocket Psychiatry",      "Kamaldeep Bhui",  "Psychology"),
                     Book("B002", "Clean Code",         "Robert Martin", "Technology"),
                     Book("B003", "Atomic Habits",      "James Clear",   "Self-Help"),
-                    Book("B004", "Sapiens",            "Yuval Harari",  "History"),
+                    Book("B004", "A Wrinkle In Time",            "Madeleine L'Engle",  "Fiction"),
                     Book("B005", "Python Crash Course","Eric Matthes",  "Technology"),
                 ]
                 for book in samples:
