@@ -1,3 +1,8 @@
+"""
+Q2: append_records.py - Takes user input for student details and appends to records.csv.
+Author: Seshank Kumar Sharma,SEC-B.
+Date: 2026-04-17
+"""
 import csv
 import os
 

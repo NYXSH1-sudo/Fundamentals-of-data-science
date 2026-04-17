@@ -1,0 +1,6 @@
+book_id,title,author,genre,available
+B001,The Alchemist,Paulo Coelho,Fiction,True
+B002,Clean Code,Robert Martin,Technology,True
+B003,Atomic Habits,James Clear,Self-Help,True
+B004,Sapiens,Yuval Harari,History,True
+B005,Python Crash Course,Eric Matthes,Technology,True

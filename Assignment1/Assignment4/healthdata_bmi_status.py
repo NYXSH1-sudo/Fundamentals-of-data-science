@@ -1,7 +1,16 @@
+"""
+Q6: healthdata_bmi_status.py - Reads healthdata.csv, adds BMI and HealthStatus columns to DataFrame.
+Fields: weight, height, bmi, health_status (Underweight/Healthy/Overweight/High risk/Critical).
+Author: Seshank Kumar Sharma, SEC-B.
+Date: 2026-04-17
+"""
 import pandas as pd # type: ignore
 
-# Read the CSV file
-df = pd.read_csv("health_data.csv")
+import os
+
+# Build path relative to the script's location
+script_dir = os.path.dirname(os.path.abspath(__file__))
+df = pd.read_csv(os.path.join(script_dir, "health_data.csv"))
 
 print("Original DataFrame:")
 print(df.head())

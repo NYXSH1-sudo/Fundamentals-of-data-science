@@ -1,3 +1,9 @@
+"""
+Q5: learner_class.py - Learner class for student details; inputs and displays object.
+Attributes: rollno, fullname, address, enrollmentyear, program, sec.
+Author: Seshank Kumar Sharma,SEC-B.
+Date: 2026-04-17
+"""
 class Learner:
     '''Represents a student/learner with their academic details.'''
 

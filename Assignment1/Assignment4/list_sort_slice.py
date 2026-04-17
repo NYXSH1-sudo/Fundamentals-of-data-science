@@ -1,3 +1,9 @@
+"""
+Q2: list_sort_slice.py - Reads ≥12 numbers, sorts list, extracts slices 3-6, 6-9, 4-10.
+Fields: user_numbers, sorted_list, slice_3_6, slice_6_9, slice_4_10.
+Author: Seshank Kumar Sharma, SEC-B.
+Date: 2026-04-17
+"""
 print("Enter at least 12 numbers separated by spaces:")
 user_input = input("Input: ")
 

@@ -1,3 +1,9 @@
+"""
+Q6: cookbook_dish.py - Dish class and Cookbook class to manage dish collection.
+Dish: dishid, dishname, ingredients, instructions.
+Author: Seshank Kumar Sharma,SEC-B.
+Date: 2026-04-17
+"""
 class Dish:
     '''Represents a single dish with its recipe details.'''
 

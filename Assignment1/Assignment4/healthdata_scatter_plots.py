@@ -1,8 +1,17 @@
+"""
+Q5: healthdata_scatter_plots.py - Reads healthdata.csv, creates 5 scatter plots with Matplotlib.
+Fields: weight, height, age, gender, scatter_plots (5 relationships).
+Author: Seshank Kumar Sharma, SEC-B.
+Date: 2026-04-17
+"""
 import pandas as pd # type: ignore
 import matplotlib.pyplot as plt # type: ignore
 
-# Read the CSV file
-df = pd.read_csv("health_data.csv")
+import os
+
+# Build path relative to the script's location
+script_dir = os.path.dirname(os.path.abspath(__file__))
+df = pd.read_csv(os.path.join(script_dir, "health_data.csv"))
 
 print("Dataset loaded successfully!")
 print(f"Shape: {df.shape}")

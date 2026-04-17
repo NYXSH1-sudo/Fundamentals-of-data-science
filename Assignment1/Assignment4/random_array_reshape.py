@@ -1,3 +1,9 @@
+"""
+Q3: random_array_reshape.py - Creates random integers array, sorts, reshapes to matrix.
+Fields: random_array, sorted_array, reshaped_matrix (3x4 or 4x3).
+Author: Seshank Kumar Sharma, SEC-B.
+Date: 2026-04-17
+"""
 import numpy as np # type: ignore
 
 # Generate an array of 12 random integers between 1 and 100

@@ -1,3 +1,9 @@
+"""
+Q3: calc_operations.py - Accepts integer lists, performs basic ops (+ sum, sub/mult/div pairwise),
+saves with datetime to file; displays formatted on exit.
+Author: Seshank Kumar Sharma,SEC-B.
+Date: 2026-04-17
+"""
 import os
 from datetime import datetime
 

@@ -1,0 +1,21 @@
+Age,Gender,Height,Weight,BMI,Health_Status
+25,Male,1.75,70,40.0,Critical health condition
+30,Female,1.6,55,34.38,High risk of diabetes/heart disease
+22,Male,1.8,80,44.44,Critical health condition
+28,Female,1.65,60,36.36,Critical health condition
+35,Male,1.7,75,44.12,Critical health condition
+40,Female,1.55,50,32.26,High risk of diabetes/heart disease
+19,Male,1.85,90,48.65,Critical health condition
+45,Female,1.62,68,41.98,Critical health condition
+32,Male,1.78,85,47.75,Critical health condition
+27,Female,1.58,52,32.91,High risk of diabetes/heart disease
+50,Male,1.72,95,55.23,Critical health condition
+23,Female,1.67,63,37.72,Critical health condition
+38,Male,1.76,78,44.32,Critical health condition
+29,Female,1.61,57,35.4,Critical health condition
+42,Male,1.69,88,52.07,Critical health condition
+33,Female,1.64,72,43.9,Critical health condition
+21,Male,1.83,76,41.53,Critical health condition
+48,Female,1.59,65,40.88,Critical health condition
+26,Male,1.74,82,47.13,Critical health condition
+36,Female,1.66,59,35.54,Critical health condition

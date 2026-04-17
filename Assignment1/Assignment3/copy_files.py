@@ -1,3 +1,9 @@
+"""
+Q4: copy_files.py - Copies content from input file to output file (user-specified).
+Handles exceptions.
+Author: Seshank Kumar Sharma,SEC-B.
+Date: 2026-04-17
+"""
 import os
 
 

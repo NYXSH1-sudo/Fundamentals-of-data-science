@@ -1,3 +1,9 @@
+"""
+Q4: matrix_operations.py - Performs matrix addition, subtraction, multiplication with validation.
+Fields: matrix1, matrix2, sum_matrix, diff_matrix, product_matrix.
+Author: Seshank Kumar Sharma, SEC-B.
+Date: 2026-04-17
+"""
 import numpy as np # type: ignore
 
 def input_matrix(name):

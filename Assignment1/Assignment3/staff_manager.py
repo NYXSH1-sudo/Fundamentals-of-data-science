@@ -1,3 +1,9 @@
+"""
+Q7: staff_manager.py - Staff class; add multiple staff, write to staff.csv, view list.
+Uses try-except. Attributes: empid, fullname, address, phonenumber, maritalstatus, dependents, salary.
+Author: Seshank Kumar Sharma,SEC-B.
+Date: 2026-04-17
+"""
 import csv
 import os
 

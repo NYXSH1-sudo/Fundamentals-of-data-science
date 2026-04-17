@@ -1,3 +1,8 @@
+"""
+Q1: read_records.py - Reads and displays contents of records.csv file.
+Author: Seshank Kumar Sharma,SEC-B.
+Date: 2026-04-17
+"""
 import csv
 import os
 

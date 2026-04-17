@@ -1,3 +1,9 @@
+"""
+Q1: array_statistics.py - Creates NumPy array and computes sum, mean, max, min.
+Fields: array=[10,20,30,40,50], sum, mean, max_value, min_value.
+Author: Seshank Kumar Sharma, SEC-B.
+Date: 2026-04-17
+"""
 import numpy as np # type: ignore
 
 # Create a NumPy array

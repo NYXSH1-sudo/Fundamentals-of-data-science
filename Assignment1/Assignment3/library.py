@@ -1,3 +1,9 @@
+"""
+Q8: library_system.py - OOP Library Management: borrow/return/search books.
+Uses files, exception handling, encapsulation.
+Author: Seshank Kumar Sharma,SEC-B.
+Date: 2026-04-17
+"""
 import csv
 import os
 
